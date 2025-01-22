@@ -16,7 +16,7 @@ function App() {
       <main className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
         <div className="bg-white rounded-lg shadow p-6">
           <img 
-            src="./src/twilio.jpg"
+            src="./twilio.jpg"
             alt="Twilio SMS configuration interface"
             className="w-full rounded-lg shadow-lg"
           />
